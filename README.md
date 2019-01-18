@@ -1,4 +1,4 @@
-# hello-world
+# digital-clock
 
 Hello Earth, 
 
